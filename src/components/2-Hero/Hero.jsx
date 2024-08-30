@@ -3,7 +3,7 @@ import './Hero.css'
 function Hero({ onButtonClick }) {
   return (
     <>
-      <section className="hero">
+      <section className="hero" id="home"  >
         <div className="hero-content">
           <h1>Welcome to Our New Collection</h1>
           <p>Discover the latest and greatest products in our store.</p>

@@ -15,10 +15,10 @@ function Footer() {
         <div className="footer-section">
           <h3>Quick Links</h3>
           <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/products">Products</a></li>
-            <li><a href="/news">News</a></li>
-            <li><a href="/contact">Contact Us</a></li>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#product">Products</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#contact">Contact Us</a></li>
           </ul>
         </div>
 

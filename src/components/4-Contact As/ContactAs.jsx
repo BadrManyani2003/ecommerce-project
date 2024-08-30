@@ -3,7 +3,7 @@ import "./ContactAs.css";
 function ContactAs() {
   return (
     <>
-      <section className="contact-us">
+      <section className="contact-us" id="contact">
         <h1>Contact Us</h1>
         <p>
           If you have any questions or inquiries, feel free to reach out to us.

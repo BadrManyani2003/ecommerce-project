@@ -28,7 +28,7 @@ function Header() {
         </div>
         <nav className="navbar">
           <a href="#home">Home</a>
-          <a href="#products">Products</a>
+          <a href="#product">Products</a>
           <a href="#news">News</a>
           <a href="#contact">Contact As</a>
         </nav>

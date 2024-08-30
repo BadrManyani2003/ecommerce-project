@@ -172,7 +172,7 @@ function Product({ addToBasket }) {
   );
 
   return (
-    <section className="product">
+    <section className="product" id='product'>
       <h1>Product</h1>
 
       <div className="category-buttons">

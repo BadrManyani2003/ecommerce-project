@@ -1,10 +1,11 @@
 .hero {
-  margin: 7rem 5rem 1rem;
+  margin: 0 5rem 1rem;
   box-shadow: rgba(0, 0, 0, 0.144) 0px 5px 15px;
   border-radius: 10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 10rem;
 }
 .hero .hero-content {
   margin: 0.5rem 2rem;
